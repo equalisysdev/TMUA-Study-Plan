@@ -21,10 +21,10 @@ Complete without a calculator unless stated. Show a short method and check restr
 14. If $x+1/x=5$, find $x^2+1/x^2$.
 15. Factorise $x^4-5x^2+4$.
 16. Solve $\\sqrt{x+4}=x-2$.
-17. Solve $2^(x+1)=16$.
+17. Solve $2^{x+1}=16$.
 18. Solve $log_2(x-1)=3$.
 19. Find the coefficient of $x^2$ in $(1-2x)^5$.
-20. For $x>0$, simplify $x^(3/2)/\\sqrt{x}$.
+20. For $x>0$, simplify $x^{3/2}/\sqrt{x}$.
 
 ## TMUA challenge
 21. Find the minimum value of $x^2-8x+19$.
@@ -35,5 +35,5 @@ Complete without a calculator unless stated. Show a short method and check restr
 26. Determine the number of real roots of $x^4-4x^2+1=0$.
 27. If $p(x)=x^3+ax^2+bx+6$ has factors `x-1` and `x+2`, find `a` and `b`.
 28. Find the largest possible value of `xy` if $x+y=10$ and $x,yge 0$.
-29. Solve $3^(2x)-10(3^x)+9=0$.
+29. Solve $3^{2x}-10(3^x)+9=0$.
 30. For positive `a,b,c` with $a+b+c=1$, prove or disprove $ab+bc+cae 1/3$.

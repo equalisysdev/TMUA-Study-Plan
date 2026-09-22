@@ -22,7 +22,7 @@ Sketch when useful. Always state domain restrictions where they matter.
 15. Solve $|2x+1|=x+4$.
 16. Find the points where $y=x^3-4x$ crosses the x-axis.
 17. Determine whether $f(x)=x^3+1$ is one-to-one on the reals.
-18. Find $f^(-1)(7)$ when $f(x)=2x+3$.
+18. Find $f^{-1}(7)$ when $f(x)=2x+3$.
 19. If $f(x+1)=x^2+2x$, find `f(x)`.
 20. Find the domain of $\\\sqrt{\frac{x-1}{x+2}}$.
 

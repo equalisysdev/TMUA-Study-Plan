@@ -60,9 +60,9 @@ Factor: $(x-2)(x-3) \\le 0$. The parabola is negative between its roots, so the 
 
 ## Lesson 4: Powers, roots, and logarithms
 
-Use the laws $a^m a^n=a^(m+n)$, $(a^m)^n=a^(mn)$, and $a^m/a^n=a^(m-n)$. For logarithms, $log_a(x)=b$ means $a^b=x$, with $a>0$, $a \ne  1$, and $x>0$.
+Use the laws $a^m a^n=a^{m+n}$, $(a^m)^n=a^{mn}$, and $a^m/a^n=a^{m-n}$. For logarithms, $\log_a(x)=b$ means $a^b=x$, with $a>0$, $a \ne 1$, and $x>0$.
 
-**Worked example:** Solve $3^(2x)-10(3^x)+9=0$.
+**Worked example:** Solve $3^{2x}-10(3^x)+9=0$.
 
 Let $u=3^x$, where $u>0$. Then $u^2-10u+9=0$, so $(u-1)(u-9)=0$. Thus $3^x=1$ or $3^x=9$, giving $x=0$ or $x=2$.
 

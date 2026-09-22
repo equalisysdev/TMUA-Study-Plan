@@ -44,7 +44,7 @@ The change inside the input acts in the opposite direction to the change outside
 
 Composition means substitution: $(f o g)(x)=f(g(x))$. To find an inverse, write $y=f(x)$, swap `x` and `y`, and solve for `y`. An inverse exists as a function only when the original function is one-to-one on the stated domain.
 
-**Worked example:** For $f(x)=4x+1$, write $y=4x+1$, swap to $x=4y+1$, then $y=(x-1)/4$. Therefore $f^(-1)(x)=(x-1)/4$.
+**Worked example:** For $f(x)=4x+1$, write $y=4x+1$, swap to $x=4y+1$, then $y=(x-1)/4$. Therefore $f^{-1}(x)=(x-1)/4$.
 
 ## Lesson 4: Intersections and solution count
 

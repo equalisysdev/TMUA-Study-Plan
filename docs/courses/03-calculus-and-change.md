@@ -20,7 +20,7 @@ You should be confident with algebra, powers, coordinates, and basic functions.
 
 ## Lesson 1: Derivatives
 
-The derivative `dy/dx$ measures the instantaneous rate at which $y` changes as `x` changes. For powers, $d(x^n)/dx = nx^(n-1)$. Constants differentiate to zero.
+The derivative $\frac{dy}{dx}$ measures the instantaneous rate at which $y$ changes as $x$ changes. For powers, $\frac{d(x^n)}{dx}=nx^{n-1}$. Constants differentiate to zero.
 
 **Worked example:** If $y=x^3-4x$, then $dy/dx=3x^2-4$. At $x=2$, the gradient is `8`.
 
@@ -34,7 +34,7 @@ A stationary point occurs where $dy/dx=0$. A sign change from positive to negati
 
 ## Lesson 3: Integration and area
 
-Integration reverses differentiation. Add a constant for an indefinite integral: $integral x^n dx = x^(n+1)/(n+1)+C$ for $n \ne  -1$. A definite integral gives signed area; split or subtract regions when the curve crosses the axis.
+Integration reverses differentiation. Add a constant for an indefinite integral: $\int x^n\,dx=\frac{x^{n+1}}{n+1}+C$ for $n \ne -1$. A definite integral gives signed area; split or subtract regions when the curve crosses the axis.
 
 **Worked example:** The area between $y=x$ and $y=x^2$ on `[0,1]` is $integral_0^1 (x-x^2) dx = [x^2/2-x^3/3]_0^1 = 1/6$.
 

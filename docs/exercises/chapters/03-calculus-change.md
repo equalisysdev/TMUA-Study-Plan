@@ -36,4 +36,4 @@ Use exact values. Sketch curves and derivative sign charts where they clarify th
 27. A rectangle under $y=12-x^2$ has one side on the x-axis. Find its maximum area.
 28. Find the number of roots of $x^3-3x+1=0$ using the derivative and graph shape.
 29. If $f'(x)=2x/(x^2+1)$ and $f(0)=4$, find `f(x)`.
-30. Prove that $x^2+1/x^2ge 2$ for positive `x`, then identify when equality occurs.
+30. Prove that $x^2+\frac{1}{x^2}\ge 2$ for positive $x$, then identify when equality occurs.
