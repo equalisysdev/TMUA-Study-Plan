@@ -28,7 +28,7 @@ $$
  y = x^3 - 6x^2 + 9x
 $$
 
-at the point where \(x=2\).
+at the point where $x=2$.
 
 ### 5. Find the stationary points of
 $$
@@ -41,22 +41,22 @@ and classify them.
 
 ### 6. Integrate
 $$
-\int (3x^2 - 4x + 5)\,dx
+$int (3x^2 - 4x + 5)\$,dx
 $$
 
 ### 7. Integrate
 $$
-\int (2x+1)^4\,dx
+$int (2x+1)^4\$,dx
 $$
 
 ### 8. Evaluate
 $$
-\int_0^2 (x^2 + 3x)\,dx
+$int_0^2 (x^2 + 3x)\$,dx
 $$
 
 ### 9. Find the area enclosed by
 $$
- y=x^2 \quad \text{and} \quad y=4
+ y=x^2 $quad \$text{and} \quad y=4
 $$
 
 ### 10. If
@@ -64,7 +64,7 @@ $$
 \frac{dy}{dx}=6x^2-4x
 $$
 
-and \(y=5\) when \(x=1\), find \(y\).
+and $y=5$ when $x=1$, find $y$.
 
 ## Exercise Set C: Graph interpretation
 
@@ -106,7 +106,7 @@ Find the local maximum and minimum points.
 
 ## Answer notes
 - Question 2: use product rule
-- Question 3: rewrite as \(x + x^{-1}\) before differentiating
+- Question 3: rewrite as $x + x^{-1}$ before differentiating
 - Question 5: solve derivative equals zero and test sign changes
 - Question 8: integrate and substitute upper lower bound
 - Question 9: find intersections first, then integrate difference

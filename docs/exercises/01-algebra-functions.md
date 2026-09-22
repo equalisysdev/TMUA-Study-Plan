@@ -20,7 +20,7 @@ $$
 
 ### 3. Solve for x
 $$
-\frac{2}{x-1} = \frac{5}{x+2}
+$frac{2}{x-1} = \$frac{5}{x+2}
 $$
 
 ### 4. Factor completely
@@ -28,7 +28,7 @@ $$
 x^3 - 6x^2 + 11x - 6
 $$
 
-### 5. If \(x+y=7\) and \(xy=10\), find \(x^2+y^2\).
+### 5. If $x+y=7$ and $xy=10$, find $x^2+y^2$.
 
 ## Exercise Set B: Inequalities and quadratics
 
@@ -39,7 +39,7 @@ $$
 
 ### 7. Solve
 $$
-|2x-5| \le 7
+|2x-5| \\\le 7
 $$
 
 ### 8. Find the range of values of k for which
@@ -54,7 +54,7 @@ $$
 \frac{x+1}{x-2} < 0
 $$
 
-### 10. Given \(f(x)=x^2-4x+3\), find the vertex and axis of symmetry.
+### 10. Given $f(x)=x^2-4x+3$, find the vertex and axis of symmetry.
 
 ## Exercise Set C: Functions and graph transformations
 
@@ -70,14 +70,14 @@ $$
 y=x^2 \text{ to } y = -2(x+3)^2 + 1
 $$
 
-### 13. If \(g(x)=3x-5\), find \(g^{-1}(x)\).
+### 13. If $g(x)=3x-5$, find $g^{-1}(x)$.
 
 ### 14. Find the domain of
 $$
-f(x)=\sqrt{x^2-9}
+f(x)=\\\sqrt{x^2-9}
 $$
 
-### 15. If \(f(x)=x^2-1\) and \(g(x)=x+2\), find \(f(g(x))\).
+### 15. If $f(x)=x^2-1$ and $g(x)=x+2$, find $f(g(x))$.
 
 ## Technique focus
 - Factor before simplifying
@@ -90,6 +90,6 @@ $$
 - Question 2: solve by factoring or formula
 - Question 3: cross multiply carefully; check restrictions
 - Question 4: use rational root testing and factorisation
-- Question 5: use \((x+y)^2 = x^2+y^2+2xy\)
+- Question 5: use $(x+y)^2 = x^2+y^2+2xy$
 - Questions 8–9: look for sign-based reasoning
 - Questions 11–15: focus on transformation laws and inverse function logic

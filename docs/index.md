@@ -39,7 +39,7 @@ This plan follows the standard TMUA model used in recent admissions preparation:
 2. Concept work: 25–30 minutes
 3. Drill practice: 20–25 minutes
 4. Timed set or mixed review: 10–15 minutes
-5. Error log: 5–10 minutes
+5. Error \\log: 5–10 minutes
 
 This plan is designed around a realistic 1-hour lunch window and a 30-minute ride home.
 

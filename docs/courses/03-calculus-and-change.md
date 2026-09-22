@@ -20,29 +20,29 @@ You should be confident with algebra, powers, coordinates, and basic functions.
 
 ## Lesson 1: Derivatives
 
-The derivative `dy/dx` measures the instantaneous rate at which `y` changes as `x` changes. For powers, `d(x^n)/dx = nx^(n-1)`. Constants differentiate to zero.
+The derivative `dy/dx$ measures the instantaneous rate at which $y` changes as `x` changes. For powers, $d(x^n)/dx = nx^(n-1)$. Constants differentiate to zero.
 
-**Worked example:** If `y=x^3-4x`, then `dy/dx=3x^2-4`. At `x=2`, the gradient is `8`.
+**Worked example:** If $y=x^3-4x$, then $dy/dx=3x^2-4$. At $x=2$, the gradient is `8`.
 
-Use the product rule for `uv`: `(uv)'=u'v+uv'`. Use the chain rule when one function is inside another.
+Use the product rule for `uv`: $(uv)'=u'v+uv'$. Use the chain rule when one function is inside another.
 
 ## Lesson 2: Stationary points and shape
 
-A stationary point occurs where `dy/dx=0`. A sign change from positive to negative indicates a local maximum; negative to positive indicates a local minimum. The second derivative can also help: positive suggests a minimum and negative suggests a maximum.
+A stationary point occurs where $dy/dx=0$. A sign change from positive to negative indicates a local maximum; negative to positive indicates a local minimum. The second derivative can also help: positive suggests a minimum and negative suggests a maximum.
 
-**Worked example:** For `y=x^3-3x`, `dy/dx=3x^2-3`, so stationary points occur at `x=+-1`. Substitution gives `( -1,2)` and `(1,-2)`. The first is a local maximum and the second a local minimum.
+**Worked example:** For $y=x^3-3x$, $dy/dx=3x^2-3$, so stationary points occur at $x=pm1$. Substitution gives `( -1,2)` and `(1,-2)`. The first is a local maximum and the second a local minimum.
 
 ## Lesson 3: Integration and area
 
-Integration reverses differentiation. Add a constant for an indefinite integral: `integral x^n dx = x^(n+1)/(n+1)+C` for `n != -1`. A definite integral gives signed area; split or subtract regions when the curve crosses the axis.
+Integration reverses differentiation. Add a constant for an indefinite integral: $integral x^n dx = x^(n+1)/(n+1)+C$ for $n \ne  -1$. A definite integral gives signed area; split or subtract regions when the curve crosses the axis.
 
-**Worked example:** The area between `y=x` and `y=x^2` on `[0,1]` is `integral_0^1 (x-x^2) dx = [x^2/2-x^3/3]_0^1 = 1/6`.
+**Worked example:** The area between $y=x$ and $y=x^2$ on `[0,1]` is $integral_0^1 (x-x^2) dx = [x^2/2-x^3/3]_0^1 = 1/6$.
 
 ## Lesson 4: Optimisation and modelling
 
 Write the quantity to optimise in one variable, find critical points, and compare them with endpoints and any boundary values.
 
-**Worked example:** For a rectangle with sides `x` and `10-x`, area is `A=x(10-x)=10x-x^2`. Then `A'=10-2x`, so the maximum occurs at `x=5`, with area `25`.
+**Worked example:** For a rectangle with sides `x` and `10-x`, area is $A=x(10-x)=10x-x^2$. Then $A'=10-2x$, so the maximum occurs at $x=5$, with area `25`.
 
 ## Common errors
 

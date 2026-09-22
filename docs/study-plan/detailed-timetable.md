@@ -113,7 +113,7 @@ Theme: exam readiness
 ## Daily time targets
 - Normal day: 2–3 focused study blocks
 - Timed paper day: 2 blocks + full mock simulation
-- Recovery day: 1 light revision block + error log
+- Recovery day: 1 light revision block + error \\log
 
 ## Recommended weekly mix
 - 3 concept blocks

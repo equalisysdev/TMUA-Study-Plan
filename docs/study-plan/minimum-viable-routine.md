@@ -10,12 +10,12 @@ Even a short session is valuable if it is consistent.
 - 10 minutes: formula recall and quick warm-up
 - 20 minutes: one topic review
 - 15 minutes: 5–8 short questions
-- 5 minutes: log mistakes
+- 5 minutes: \\log mistakes
 
 ### 2. Ride home (20–30 minutes)
 - 5 quick formula or method questions
 - 2–3 recap items from the topic you studied
-- 5-minute error log
+- 5-minute error \\log
 
 ## Busy-day template
 ### Monday

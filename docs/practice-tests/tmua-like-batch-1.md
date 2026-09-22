@@ -14,7 +14,7 @@ $$
 $$
 
 ## Question 2
-If \(f(x)=x^2-3x+2\), find the roots of \(f(x)=0\) and the minimum value of \(f(x)\).
+If $f(x)=x^2-3x+2$, find the roots of $f(x)=0$ and the minimum value of $f(x)$.
 
 ## Question 3
 Simplify
@@ -25,7 +25,7 @@ $$
 ## Question 4
 Solve the inequality
 $$
-(x-1)(x+4) \le 0
+(x-1)(x+4) \\\le 0
 $$
 
 ## Question 5
@@ -37,17 +37,17 @@ $$
 ## Question 6
 Evaluate
 $$
-\int_1^3 (2x+1)\,dx
+$int_1^3 (2x+1)\$,dx
 $$
 
 ## Question 7
-Solve for \(x\):
+Solve for $x$:
 $$
-\sin x = \frac{\sqrt{3}}{2}, \quad 0\le x \le 2\pi
+$\\sin x = \$frac{$\\sqrt{3}}{2}, \$quad 0$\\le x \$\\le 2\\\pi
 $$
 
 ## Question 8
-Find the equation of the line through \((2,5)\) and \((6,13)\).
+Find the equation of the line through $(2,5)$ and $(6,13)$.
 
 ## Question 9
 How many ways can 4 books be arranged on a shelf if all 4 are used?

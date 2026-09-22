@@ -22,7 +22,7 @@ This should be your highest-quality study session of the day.
 ### Ride home block (30 minutes)
 Use this for lighter revision only:
 - formula recall
-- error-log review
+- error-\\log review
 - 5–8 quick questions
 - short topic recap
 
@@ -32,7 +32,7 @@ This is not the time for difficult multi-step reasoning.
 
 ### Monday
 - Lunch: Algebra and functions
-- Ride home: 5 quick function questions + error log
+- Ride home: 5 quick function questions + error \\log
 
 ### Tuesday
 - Lunch: Calculus core concepts
@@ -88,6 +88,6 @@ This keeps the session sharp and manageable.
 If you are tired one day, keep the minimum standard:
 - 1 lunch block of 45–60 minutes
 - 1 ride-home review of 20–30 minutes
-- 1 short error log
+- 1 short error \\log
 
 Consistency matters more than intensity.

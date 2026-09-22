@@ -88,6 +88,6 @@ The target is not to learn new content. It is to make your current methods relia
 If a session ever feels heavy, reduce to the minimum viable version:
 - 1 strong lunch block
 - 1 commute review block
-- 10 minutes of error log
+- 10 minutes of error \\log
 
 Consistency wins in the final stretch.

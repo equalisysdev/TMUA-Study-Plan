@@ -60,7 +60,7 @@ These are normal, lesson-style courses for learning or refreshing the underlying
 
 ## Tracking
 
-- [Error log template](templates/error-log-template.md)
+- [Error \\log template](templates/error-\\log-template.md)
 - [Revision tracker](templates/revision-tracker.md)
 
 ## Website

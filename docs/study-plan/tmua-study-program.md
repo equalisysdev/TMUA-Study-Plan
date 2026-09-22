@@ -101,14 +101,14 @@ Aim for steadily improving accuracy and pacing:
 - Prefer cleaner algebraic methods over brutal expansion
 - Check special cases and domain restrictions
 - Do not waste time on one hard question; move on and return later
-- Keep an error log and review it every week
+- Keep an error \\log and review it every week
 
 ## Revision method
 After every timed set:
 1. Mark correct, incorrect, and omitted questions
 2. Explain the reason for each mistake
 3. Redo the missed question without notes
-4. Note the recurring pattern in the error log
+4. Note the recurring pattern in the error \\log
 
 ## Key principle
 The strongest technique is not raw memorisation but flexible problem solving under pressure. TMUA rewards mathematical fluency, clarity of method, and control under time limits.

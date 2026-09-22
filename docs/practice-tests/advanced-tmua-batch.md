@@ -19,7 +19,7 @@ Given that
 $$
 f(x)=x^2-6x+8,
 $$
-find the range of values of x for which \(f(x)\ge 0\), and determine the minimum value of the function.
+find the range of values of $x$ for which $f(x)\\ge 0$, and determine the minimum value of the function.
 
 ### 3.
 The equation
@@ -29,7 +29,7 @@ $$
 has equal roots. Find the possible values of p.
 
 ### 4.
-If \\(f(x)=\frac{x+1}{x-2}\), find the inverse function \(f^{-1}(x)\) and state its domain.
+If $$f(x)=\$frac{x+1}{x-2}$, find the inverse function $f^{-1}(x)$ and state its domain.
 
 ### 5.
 Solve
@@ -56,13 +56,13 @@ and classify them.
 ### 8.
 Evaluate
 $$
-\int_0^2 (x^3 - 3x + 2)\,dx
+$int_0^2 (x^3 - 3x + 2)\$,dx
 $$
 
 ### 9.
 Find the area enclosed between the curves
 $$
- y=x^2 \quad \text{and} \quad y=2x
+ y=x^2 $quad \$text{and} \quad y=2x
 $$
 
 ### 10.
@@ -70,14 +70,14 @@ A curve satisfies
 $$
 \frac{dy}{dx}=3x^2-6x
 $$
-with the condition \(y=4\) when \(x=1\). Find the equation of the curve.
+with the condition $y=4$ when $x=1$. Find the equation of the curve.
 
 ## Section C: Trigonometry and geometry
 
 ### 11.
 Solve
 $$
-\sin 2x = \cos x, \quad 0\le x \le 2\pi
+$\\sin 2x = \$\\cos x, $quad 0\$\\le x $\\le 2\$\\pi
 $$
 
 ### 12.
@@ -86,18 +86,18 @@ $$
  y = x^2 - 3x + 2
 $$
 
-at the point where \(x=2\).
+at the point where $x=2$.
 
 ### 13.
 A triangle has side lengths 9, 10, and 13. Find its area using a suitable method.
 
 ### 14.
-The point \((3,4)\) lies on a circle with centre \((1,1)\). Find the equation of the circle.
+The point $(3,4)$ lies on a circle with centre $(1,1)$. Find the equation of the circle.
 
 ### 15.
 Solve for x:
 $$
-\cos^2 x - \sin^2 x = \frac{1}{2}, \quad 0\le x \le \pi
+$\\cos^2 x - \$\\sin^2 x = $frac{1}{2}, \$quad 0$\\le x \$\\le \\\pi
 $$
 
 ## Section D: Proof and combinatorics

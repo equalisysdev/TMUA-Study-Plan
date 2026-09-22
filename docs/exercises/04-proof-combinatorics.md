@@ -12,14 +12,14 @@
 
 ### 2. Prove by induction that
 $$
-1+2+\cdots+n = \frac{n(n+1)}{2}
+1+2+$cdots+n = \$frac{n(n+1)}{2}
 $$
 
-### 3. Show that if \(n\) is odd, then \(n^2\) is odd.
+### 3. Show that if $n$ is odd, then $n^2$ is odd.
 
-### 4. Prove that if \(a>b\) and \(c>0\), then \(ac>bc\).
+### 4. Prove that if $a>b$ and $c>0$, then $ac>bc$.
 
-### 5. A number is divisible by 3 if the sum of its digits is divisible by 3. Explain why this is true for a two-digit number \(10a+b\).
+### 5. A number is divisible by 3 if the sum of its digits is divisible by 3. Explain why this is true for a two-digit number $10a+b$.
 
 ## Exercise Set B: Counting and probability
 
@@ -37,7 +37,7 @@ $$
 
 ### 11. A test has 10 questions. In how many ways can a student choose 6 to answer?
 
-### 12. What is the coefficient of \(x^3\) in \((1+x)^5\)?
+### 12. What is the coefficient of $x^3$ in $(1+x)^5$?
 
 ### 13. If a coin is tossed 3 times, what is the probability of exactly two heads?
 

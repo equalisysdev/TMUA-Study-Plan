@@ -15,15 +15,15 @@ Write complete arguments. A numerical check is evidence, not a proof.
 10. Explain why checking the first 100 cases cannot prove a statement for all integers.
 
 ## Core technique
-11. Prove by induction that `1+2+...+n=n(n+1)/2`.
-12. Prove by induction that `1+3+...+(2n-1)=n^2`.
-13. Prove by induction that `2^n>n` for all integers `n>=1`.
-14. Prove by contradiction that sqrt(2) is irrational.
+11. Prove by induction that $1+2+...+n=n(n+1)/2$.
+12. Prove by induction that $1+3+...+(2n-1)=n^2$.
+13. Prove by induction that $2^n>n$ for all integers $nge 1$.
+14. Prove by contradiction that \\sqrt{2} is irrational.
 15. Prove by contradiction that there is no largest integer.
-16. Prove the contrapositive of: if `n^2` is odd then n is odd.
-17. Decide whether `n^2+n` is always even and prove your conclusion.
+16. Prove the contrapositive of: if $n^2$ is odd then n is odd.
+17. Decide whether $n^2+n$ is always even and prove your conclusion.
 18. Prove that the sum of three consecutive integers is divisible by 3.
-19. Find a counterexample to: `x^2>x` for every real x.
+19. Find a counterexample to: $x^2>x$ for every real x.
 20. Translate “at least one of A and B is true” into logical notation.
 
 ## TMUA challenge
@@ -35,5 +35,5 @@ Write complete arguments. A numerical check is evidence, not a proof.
 26. Prove that a strictly increasing function is one-to-one.
 27. Disprove: every bounded sequence is convergent.
 28. Prove that if `x+y` and `x-y` are even integers, then x and y are integers of the same parity.
-29. Find all positive integers n for which `n^2+1` is divisible by `n+1`.
+29. Find all positive integers n for which $n^2+1$ is divisible by `n+1`.
 30. Analyse the claim: if `p` is prime and `p|ab`, then `p|a` or `p|b`. State the theorem and give a proof.

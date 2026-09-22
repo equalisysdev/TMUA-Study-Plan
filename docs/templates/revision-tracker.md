@@ -25,7 +25,7 @@
 ## Final exam readiness checklist
 - [ ] Concept work completed
 - [ ] Timed sets completed
-- [ ] Error log reviewed
+- [ ] Error \\log reviewed
 - [ ] Weak topics repaired
 - [ ] Rest plan finalised
 - [ ] Exam-day routine prepared

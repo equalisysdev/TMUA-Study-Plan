@@ -28,7 +28,7 @@ $$
 $$
 
 ### 4.
-If \(f(x) = 2x+1\), find \(f^{-1}(x)\).
+If $f(x) = 2x+1$, find $f^{-1}(x)$.
 
 ### 5.
 Solve the inequality
@@ -53,11 +53,11 @@ $$
 ### 8.
 Evaluate
 $$
-\int_0^2 (x^2 + x)\,dx
+$int_0^2 (x^2 + x)\$,dx
 $$
 
 ### 9.
-Find the area between the curve \(y=x^2\) and the line \(y=x\) from \(x=0\) to \(x=1\).
+Find the area between the curve $y=x^2$ and the line $y=x$ from $x=0$ to $x=1$.
 
 ### 10.
 A particle’s displacement is
@@ -71,11 +71,11 @@ When is it at rest?
 ### 11.
 Solve
 $$
-\cos x = \frac{1}{2}, \quad 0\le x \le 2\pi
+$\\cos x = \$frac{1}{2}, $quad 0\$\\le x $\\le 2\$\\pi
 $$
 
 ### 12.
-Find the equation of the line through \\( (3,2) \) and \\( (7,10) \).
+Find the equation of the line through $$ (3,2) $ and \$$ (7,10) $.
 
 ### 13.
 A triangle has sides 7, 7, and 10. Find its area.
@@ -89,7 +89,7 @@ $$
 ### 15.
 Simplify
 $$
-\frac{\sin^2 x}{1-\cos^2 x}
+$frac{\$\\sin^2 x}{1-\\\cos^2 x}
 $$
 
 ## Section D: Proof and combinatorics

@@ -17,4 +17,4 @@ The exercise bank is organised into six standalone chapters. Each chapter contai
 - Core technique: solve cleanly without looking at notes.
 - TMUA challenge: use a timer and write a short method justification.
 
-Keep solutions and recurring mistakes in the error log template rather than writing over the question bank.
+Keep solutions and recurring mistakes in the error \\log template rather than writing over the question bank.

@@ -10,13 +10,13 @@ The objective is steady progress without overload.
 ## Week 1 — 20 Sep to 26 Sep 2026
 
 ### Sunday 20 Sep
-- 20 minutes: set up notes, checklist, and error log
+- 20 minutes: set up notes, checklist, and error \\log
 - 25 minutes: diagnostic mini-test
 - 15 minutes: review weak areas and decide targets
 
 ### Monday 21 Sep
 - Lunch: Algebra foundations — factorising, expanding, solving equations
-- Ride home: 5 short algebra questions and error log
+- Ride home: 5 short algebra questions and error \\log
 
 ### Tuesday 22 Sep
 - Lunch: Functions and graphs — notation, domains, transformations
@@ -62,7 +62,7 @@ The objective is steady progress without overload.
 
 ### Saturday 2 Oct
 - 90 minutes: timed calculus set
-- 30 minutes: correction log
+- 30 minutes: correction \\log
 
 ### Sunday 3 Oct
 - 60 minutes: weak-area recovery
@@ -88,7 +88,7 @@ The objective is steady progress without overload.
 
 ### Friday 8 Oct
 - Lunch: Mixed trig + geometry set
-- Ride home: mark and log errors
+- Ride home: mark and \\log errors
 
 ### Saturday 9 Oct
 - 90 minutes: timed mixed set
@@ -150,7 +150,7 @@ The objective is steady progress without overload.
 
 ### Saturday 23 Oct
 - 90 minutes: full section mock
-- 30 minutes: error log
+- 30 minutes: error \\log
 
 ### Sunday 24 Oct
 - 60 minutes: repair weak points
@@ -233,7 +233,7 @@ The objective is steady progress without overload.
 
 ### Friday 12 Nov
 - Lunch: Mixed set with medium difficulty
-- Ride home: mark and log errors
+- Ride home: mark and \\log errors
 
 ### Saturday 13 Nov
 - 90 minutes: timed mixed set
@@ -324,7 +324,7 @@ The objective is steady progress without overload.
 
 ### Saturday 4 Dec
 - 90 minutes: timed mock
-- 30 minutes: corrections and revision log
+- 30 minutes: corrections and revision \\log
 
 ### Sunday 5 Dec
 - 60 minutes: easy confidence work
@@ -395,7 +395,7 @@ The objective is steady progress without overload.
 
 ### Tuesday 21 Dec
 - Lunch: Mixed set targeting fallible topics
-- Ride home: error log
+- Ride home: error \\log
 
 ### Wednesday 22 Dec
 - Lunch: Time-pressure batch and method selection
@@ -459,6 +459,6 @@ The objective is steady progress without overload.
 ## Notes for execution
 - Keep the lunch block focused and not overloaded.
 - The commute block is for quick recall, not long problem solving.
-- Use the error log after every timed section.
+- Use the error \\log after every timed section.
 - In the final 2 weeks, reduce volume but maintain quality.
 - Do not start new topics in the final 10-day phase.
