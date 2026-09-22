@@ -384,17 +384,17 @@
 <li>test whether a conclusion really follows from its assumptions</li>
 </ul>
 <h2 id="lesson-1-direct-proof">Lesson 1: Direct proof</h2>
-<p>To prove an implication <code>P -&gt; Q</code>, assume <code>P</code> and use valid steps to reach <code>Q</code>. For parity, write an even integer as <code>2k</code> and an odd integer as <code>2k+1</code>.</p>
-<p><strong>Worked example:</strong> If <code>a=2m</code> and <code>b=2n</code>, then <code>a+b=2(m+n)</code>, which is even. The proof works for arbitrary integers <code>m</code> and <code>n</code>.</p>
+<p>To prove an implication $P -&gt; Q$, assume <code>P</code> and use valid steps to reach <code>Q</code>. For parity, write an even integer as <code>2k</code> and an odd integer as <code>2k+1</code>.</p>
+<p><strong>Worked example:</strong> If $a=2m$ and $b=2n$, then $a+b=2(m+n)$, which is even. The proof works for arbitrary integers <code>m</code> and <code>n</code>.</p>
 <h2 id="lesson-2-converse-and-contrapositive">Lesson 2: Converse and contrapositive</h2>
-<p>The converse of <code>P -&gt; Q</code> is <code>Q -&gt; P</code> and may be false. The contrapositive is <code>not Q -&gt; not P</code> and is logically equivalent to the original statement.</p>
-<p><strong>Worked example:</strong> The contrapositive of “if <code>n^2</code> is odd then <code>n</code> is odd” is “if <code>n</code> is even then <code>n^2</code> is even”. Proving this is straightforward by writing <code>n=2k</code>.</p>
+<p>The converse of $P -&gt; Q$ is $Q -&gt; P$ and may be false. The contrapositive is $not Q -&gt; not P$ and is logically equivalent to the original statement.</p>
+<p><strong>Worked example:</strong> The contrapositive of “if $n^2$ is odd then <code>n</code> is odd” is “if <code>n</code> is even then $n^2$ is even”. Proving this is straightforward by writing $n=2k$.</p>
 <h2 id="lesson-3-counterexamples-and-contradiction">Lesson 3: Counterexamples and contradiction</h2>
 <p>One counterexample disproves a universal claim. To prove by contradiction, assume the claim is false and derive an impossibility.</p>
-<p><strong>Worked example:</strong> “Every prime is odd” is false because <code>2</code> is prime and even. For a contradiction proof that <code>sqrt(2)</code> is irrational, assume it equals a fraction in lowest terms and show both numerator and denominator must be even.</p>
+<p><strong>Worked example:</strong> “Every prime is odd” is false because <code>2</code> is prime and even. For a contradiction proof that $\sqrt{2}$ is irrational, assume it equals a fraction in lowest terms and show both numerator and denominator must be even.</p>
 <h2 id="lesson-4-induction">Lesson 4: Induction</h2>
-<p>Induction has two required parts: prove the base case, then prove that truth at <code>n=k</code> implies truth at <code>n=k+1</code>. The induction hypothesis may only be used for the case <code>k</code>.</p>
-<p><strong>Worked example:</strong> For <code>1+2+...+n=n(n+1)/2</code>, the base case is true at <code>n=1</code>. Assuming the formula at <code>k</code>, add <code>k+1</code> and simplify to <code>(k+1)(k+2)/2</code>.</p>
+<p>Induction has two required parts: prove the base case, then prove that truth at $n=k$ implies truth at $n=k+1$. The induction hypothesis may only be used for the case <code>k</code>.</p>
+<p><strong>Worked example:</strong> For $1+2+...+n=n(n+1)/2$, the base case is true at $n=1$. Assuming the formula at <code>k</code>, add <code>k+1</code> and simplify to <code>(k+1)(k+2)/2</code>.</p>
 <h2 id="common-errors">Common errors</h2>
 <ul>
 <li>proving only several examples</li>
@@ -420,6 +420,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../js/base.js"></script>
+        <script src="../../javascripts/mathjax.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         <script src="../../search/main.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">

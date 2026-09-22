@@ -385,24 +385,24 @@
 </ul>
 <h2 id="lesson-1-product-and-sum-rules">Lesson 1: Product and sum rules</h2>
 <p>If a process has <code>a</code> choices followed by <code>b</code> choices, it has <code>ab</code> outcomes. If alternatives are mutually exclusive with <code>a</code> and <code>b</code> outcomes, there are <code>a+b</code> outcomes.</p>
-<p><strong>Worked example:</strong> A 3-digit number using distinct digits from <code>1,2,3,4,5</code> has <code>5*4*3=60</code> possibilities.</p>
+<p><strong>Worked example:</strong> A 3-digit number using distinct digits from <code>1,2,3,4,5</code> has $5<em>4</em>3=60$ possibilities.</p>
 <h2 id="lesson-2-arrangements-and-selections">Lesson 2: Arrangements and selections</h2>
-<p>An arrangement of <code>r</code> objects from <code>n</code> is <code>nPr=n!/(n-r)!</code> because order matters. A selection is <code>nCr=n!/(r!(n-r)!)</code> because order does not matter.</p>
-<p><strong>Worked example:</strong> A committee of 3 from 8 people can be chosen in <code>8C3=56</code> ways. A captain and vice-captain from 10 people can be chosen in <code>10*9=90</code> ways because the roles differ.</p>
+<p>An arrangement of <code>r</code> objects from <code>n</code> is $nPr=n!/(n-r)!$ because order matters. A selection is $nCr=n!/(r!(n-r)!)$ because order does not matter.</p>
+<p><strong>Worked example:</strong> A committee of 3 from 8 people can be chosen in $8C3=56$ ways. A captain and vice-captain from 10 people can be chosen in $10*9=90$ ways because the roles differ.</p>
 <p>For repeated objects, divide by the factorial of each repetition count. For example, BANANA has <code>6!/(3!2!)</code> distinct arrangements.</p>
 <h2 id="lesson-3-probability">Lesson 3: Probability</h2>
-<p>For equally likely outcomes, <code>P(A)=number of favourable outcomes / total outcomes</code>. The complement rule is <code>P(not A)=1-P(A)</code>. For dependent stages, multiply conditional probabilities along a branch.</p>
+<p>For equally likely outcomes, $P(A)=number of favourable outcomes / total outcomes$. The complement rule is $P(not A)=1-P(A)$. For dependent stages, multiply conditional probabilities along a branch.</p>
 <p><strong>Worked example:</strong> The probability of exactly two heads in three fair tosses is <code>3/8</code>, because the favourable patterns are HHT, HTH, and THH.</p>
 <h2 id="lesson-4-conditional-probability-and-expectation">Lesson 4: Conditional probability and expectation</h2>
-<p>Conditional probability is <code>P(A|B)=P(A and B)/P(B)</code>. A probability tree keeps changing totals visible. The expected value of a discrete variable is the weighted sum <code>E(X)=sum of xP(X=x)</code>.</p>
-<p><strong>Worked example:</strong> A fair die has expected score <code>(1+2+3+4+5+6)/6=3.5</code>. For eight fair coin tosses, the expected number of heads is <code>8*(1/2)=4</code>.</p>
+<p>Conditional probability is $P(A|B)=P(A and B)/P(B)$. A probability tree keeps changing totals visible. The expected value of a discrete variable is the weighted sum $E(X)=sum of xP(X=x)$.</p>
+<p><strong>Worked example:</strong> A fair die has expected score $(1+2+3+4+5+6)/6=3.5$. For eight fair coin tosses, the expected number of heads is $8*(1/2)=4$.</p>
 <h2 id="common-errors">Common errors</h2>
 <ul>
 <li>using permutations when order does not matter</li>
 <li>forgetting the first choice changes the next number of choices</li>
 <li>assuming events are independent without evidence</li>
 <li>counting the same outcome in multiple ways</li>
-<li>using <code>P(A and B)=P(A)P(B)</code> for dependent events</li>
+<li>using $P(A and B)=P(A)P(B)$ for dependent events</li>
 </ul>
 <h2 id="checkpoint">Checkpoint</h2>
 <p>For every counting question, write “order matters” or “order does not matter” before selecting a formula.</p>
@@ -421,6 +421,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../js/base.js"></script>
+        <script src="../../javascripts/mathjax.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         <script src="../../search/main.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">

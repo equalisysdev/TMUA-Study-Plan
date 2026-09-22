@@ -384,18 +384,18 @@
 <li>translate optimisation problems into a function of one variable</li>
 </ul>
 <h2 id="lesson-1-derivatives">Lesson 1: Derivatives</h2>
-<p>The derivative <code>dy/dx</code> measures the instantaneous rate at which <code>y</code> changes as <code>x</code> changes. For powers, <code>d(x^n)/dx = nx^(n-1)</code>. Constants differentiate to zero.</p>
-<p><strong>Worked example:</strong> If <code>y=x^3-4x</code>, then <code>dy/dx=3x^2-4</code>. At <code>x=2</code>, the gradient is <code>8</code>.</p>
-<p>Use the product rule for <code>uv</code>: <code>(uv)'=u'v+uv'</code>. Use the chain rule when one function is inside another.</p>
+<p>The derivative <code>dy/dx$ measures the instantaneous rate at which $y</code> changes as <code>x</code> changes. For powers, $d(x^n)/dx = nx^(n-1)$. Constants differentiate to zero.</p>
+<p><strong>Worked example:</strong> If $y=x^3-4x$, then $dy/dx=3x^2-4$. At $x=2$, the gradient is <code>8</code>.</p>
+<p>Use the product rule for <code>uv</code>: $(uv)'=u'v+uv'$. Use the chain rule when one function is inside another.</p>
 <h2 id="lesson-2-stationary-points-and-shape">Lesson 2: Stationary points and shape</h2>
-<p>A stationary point occurs where <code>dy/dx=0</code>. A sign change from positive to negative indicates a local maximum; negative to positive indicates a local minimum. The second derivative can also help: positive suggests a minimum and negative suggests a maximum.</p>
-<p><strong>Worked example:</strong> For <code>y=x^3-3x</code>, <code>dy/dx=3x^2-3</code>, so stationary points occur at <code>x=+-1</code>. Substitution gives <code>( -1,2)</code> and <code>(1,-2)</code>. The first is a local maximum and the second a local minimum.</p>
+<p>A stationary point occurs where $dy/dx=0$. A sign change from positive to negative indicates a local maximum; negative to positive indicates a local minimum. The second derivative can also help: positive suggests a minimum and negative suggests a maximum.</p>
+<p><strong>Worked example:</strong> For $y=x^3-3x$, $dy/dx=3x^2-3$, so stationary points occur at $x=pm1$. Substitution gives <code>( -1,2)</code> and <code>(1,-2)</code>. The first is a local maximum and the second a local minimum.</p>
 <h2 id="lesson-3-integration-and-area">Lesson 3: Integration and area</h2>
-<p>Integration reverses differentiation. Add a constant for an indefinite integral: <code>integral x^n dx = x^(n+1)/(n+1)+C</code> for <code>n != -1</code>. A definite integral gives signed area; split or subtract regions when the curve crosses the axis.</p>
-<p><strong>Worked example:</strong> The area between <code>y=x</code> and <code>y=x^2</code> on <code>[0,1]</code> is <code>integral_0^1 (x-x^2) dx = [x^2/2-x^3/3]_0^1 = 1/6</code>.</p>
+<p>Integration reverses differentiation. Add a constant for an indefinite integral: $integral x^n dx = x^(n+1)/(n+1)+C$ for $n \ne  -1$. A definite integral gives signed area; split or subtract regions when the curve crosses the axis.</p>
+<p><strong>Worked example:</strong> The area between $y=x$ and $y=x^2$ on <code>[0,1]</code> is $integral_0^1 (x-x^2) dx = [x^2/2-x^3/3]_0^1 = 1/6$.</p>
 <h2 id="lesson-4-optimisation-and-modelling">Lesson 4: Optimisation and modelling</h2>
 <p>Write the quantity to optimise in one variable, find critical points, and compare them with endpoints and any boundary values.</p>
-<p><strong>Worked example:</strong> For a rectangle with sides <code>x</code> and <code>10-x</code>, area is <code>A=x(10-x)=10x-x^2</code>. Then <code>A'=10-2x</code>, so the maximum occurs at <code>x=5</code>, with area <code>25</code>.</p>
+<p><strong>Worked example:</strong> For a rectangle with sides <code>x</code> and <code>10-x</code>, area is $A=x(10-x)=10x-x^2$. Then $A'=10-2x$, so the maximum occurs at $x=5$, with area <code>25</code>.</p>
 <h2 id="common-errors">Common errors</h2>
 <ul>
 <li>forgetting the constant of integration</li>
@@ -421,6 +421,8 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../js/base.js"></script>
+        <script src="../../javascripts/mathjax.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         <script src="../../search/main.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
